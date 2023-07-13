@@ -113,18 +113,24 @@ void main()
 	// 산술 연산자 : +, -, *, /
 	// 정수 값으로 연산해주세요.
 
-	// 1. printf(     ,변수 + 변수);
+	int A = 300;
+	int B = 27;
+	const C = 39;
+	const D = 3902;
+
 	
+	// 1. printf(     ,변수 + 변수);
+	printf("%d\n", A + B);
 	// 2. printf(     ,변수 + 리터럴 상수);
-
+	printf("%d\n", B + C);
 	// 3. printf(     ,변수 - 심볼릭 상수);
-
+	printf("%d\n", A - D);
 	// 4. printf(     ,리터럴 상수 * 심볼릭 상수);
-
+	printf("%d\n", C * D);
 	// 5. printf(     ,심볼릭 상수 / 심볼릭 상수);
-
+	printf("%d\n", D / D);
 	// 6. printf(     ,리터럴 상수 / 리터럴 상수);
-
+	printf("%d\n", C / C);
 #pragma endregion
 
 
