@@ -1,2 +1,7 @@
-﻿  Source1.c
-  Project1.vcxproj -> C:\Users\Admin\Desktop\CTurorial\Project1\x64\Debug\Project1.exe
+﻿  Source1.cpp
+C:\Users\Administrator\Desktop\CTurorial\Project1\Project1\Source1.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Administrator\Desktop\CTurorial\Project1\Project1\Source1.cpp(71,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\Desktop\CTurorial\Project1\Project1\Source1.cpp(78,13): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Administrator\Desktop\CTurorial\Project1\Project1\Source1.cpp(78,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\Desktop\CTurorial\Project1\Project1\Source1.cpp(79,26): warning C4056: overflow in floating-point constant arithmetic
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\CTurorial\Project1\x64\Debug\Project1.exe
