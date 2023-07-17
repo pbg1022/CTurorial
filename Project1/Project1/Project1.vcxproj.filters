@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="Source1.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
@@ -27,6 +24,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="(2023.7.13) 상수.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.7.14.) 비트와 바이트.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
