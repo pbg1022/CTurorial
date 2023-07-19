@@ -32,5 +32,8 @@
     <ClInclude Include="(2023.7.17) 조건문.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="(2023.7.18) 반복문.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
