@@ -141,11 +141,12 @@
     <ClInclude Include="(2023.7.27) 인라인 함수.h" />
     <ClInclude Include="(2023.7.28) 변수의 범위.h" />
     <ClInclude Include="(2023.7.31) 동적 할당.h" />
+    <ClInclude Include="(2023.8.1) 구조체.h" />
     <ClInclude Include="ControlSound.h" />
     <ClInclude Include="SoundManager.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
