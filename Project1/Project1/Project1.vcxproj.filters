@@ -72,6 +72,9 @@
     <ClInclude Include="(2023.8.2) 자기 참조 구조체.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="(2023.8.3) ASCII 코드.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

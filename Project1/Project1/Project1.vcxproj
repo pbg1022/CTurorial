@@ -143,6 +143,7 @@
     <ClInclude Include="(2023.7.31) 동적 할당.h" />
     <ClInclude Include="(2023.8.1) 구조체.h" />
     <ClInclude Include="(2023.8.2) 자기 참조 구조체.h" />
+    <ClInclude Include="(2023.8.3) ASCII 코드.h" />
     <ClInclude Include="ControlSound.h" />
     <ClInclude Include="SoundManager.h" />
   </ItemGroup>

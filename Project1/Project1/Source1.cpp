@@ -2,13 +2,12 @@
 
 int main()
 {
-	
-	printf("|\\_/|\n");
-	printf("|q p|   /}\n");
-	printf("(0)\"\"\"\\\\n");
-	printf("|\"\ ^ \"\`    |\n");
-	printf("||_/=\\\\__|\n");
+	int A, B;
+	A = 30;
+	B = 40;
+	scanf_s("%d %d", &A, &B);
+	printf("%d < %d\n", A < B);
 
-	
+
 	return 0;
 }
