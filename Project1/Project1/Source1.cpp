@@ -2,12 +2,8 @@
 
 int main()
 {
-	int A, B;
-	A = 30;
-	B = 40;
-	scanf_s("%d %d", &A, &B);
-	printf("%d < %d\n", A < B);
-
+	int A;
+	scanf_s("%d", &A);
 
 	return 0;
 }
